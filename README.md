@@ -51,6 +51,17 @@ traceroute github.com
 
 ---
 
+## 📊 Activity Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Activity Snake" />
+</p>
+
+---
+
+
+---
+
 📈 **Statistics**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Minzy-0x&show_icons=true&theme=tokyonight" width="48%"/>
