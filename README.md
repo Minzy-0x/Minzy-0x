@@ -51,13 +51,12 @@ traceroute github.com
 
 ---
 
-## 🐍 Activity Snake (Crawling Through Code)
+## 📊 Activity Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Minzy-0x/Minzy-0x/output/github-contribution-grid-snake.svg" alt="Activity Snake" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Activity Snake" />
 </p>
 
-<!-- Silent serpent tracing commits in the dark... -->
 ---
 
 
