@@ -1,4 +1,4 @@
-# ⚡ Miss. Root ⚡
+# 👾 Miss. Root ! 👾
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=9D00FF&center=true&vCenter=true&width=600&lines=Possibly+Just+a+Student...;Definitely+Not+a+Threat+%F0%9F%98%8F;Whispers+in+Packet+Headers...;Maker+of+Noise+in+Silent+Networks;Writing+Code+the+Dark+Can+Read" alt="Typing Header" />
@@ -6,7 +6,6 @@
 
 ---
 
-<h1 align="center">👾 Miss. Root ! 👾</h1>
 <h3 align="center">Just another user... or maybe not. 👀</h3>
 
 ---
