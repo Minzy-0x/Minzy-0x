@@ -1,68 +1,63 @@
 
-<h1 align="center">👾 Miss. Root ! 👾</h1>
-<h3 align="center">Cyber seductress | Forensics addict | Digital rebel 💻💋</h3>
+<h1 align="center">Miss. Root 👩‍💻</h1>
+<h3 align="center">Aspiring Cybersecurity Specialist | Digital Forensics Enthusiast | Tech Explorer</h3>
 
 ---
 
-🧠 `about_me.sh`
-```bash
-alias me='Minzy-0x'
-echo "Aspiring Cyber Forensics Queen 👑"
-echo "Rooting systems, breaking norms, and loving dark chocolate 🍫"
-echo "Studying @ CICRA Campus | BSc in Cybersecurity"
-echo "🔥 Dream: Digital Forensics Investigator & Hacker Extraordinaire"
-```
+## 👋 About Me
+
+Hello! I'm **Umaya Isiri Savidya**, known in the cyber world as **Miss. Root**.  
+I'm currently pursuing a BSc in Cybersecurity at CICRA Campus, Sri Lanka.  
+I’m passionate about ethical hacking, digital forensics, and building solutions that make a difference in the cybersecurity landscape.
 
 ---
 
-📂 **Digital Arsenal**  
-```yaml
-Languages:
-  - Python 🐍
-  - C++ 💣
-  - C# 🖤
-  - Bash 🔪
-  - HTML/CSS 🕸️
+## 🧠 Skills & Tools
 
-Tools:
-  - Wireshark 🦈
-  - Nmap 🧭
-  - Burp Suite 🍔
-  - Metasploit ⚔️
-  - Arduino 🔌
-  - Git 💾
+**Languages**  
+- Python  
+- C++  
+- C#  
+- Bash  
+- HTML/CSS  
 
-Certs in Progress:
-  - [ ] CEH 🔐
-  - [ ] CHFI 🕵️‍♀️
-  - [ ] CCNA 🌐
-  - [ ] CND 🛡️
-```
+**Cybersecurity Tools**  
+- Wireshark  
+- Nmap  
+- Burp Suite  
+- Metasploit  
+- Git  
+- Arduino  
 
----
+**Currently Working On**  
+- Capture The Flag (CTF) challenges  
+- Building packet classifiers  
+- Arduino sensor projects  
+- Python automation scripts for data collection & analysis  
 
-⚔️ **Cyber Goals**  
-- 🔍 Trace the untraceable.  
-- 💀 Be the nightmare behind the 127.0.0.1  
-- 🌍 Make global impact with digital forensics & hacking.  
-- 💻 Build tools that hackers would admire.  
-- ❤️‍🔥 Stay wild, stay root.
+**Certifications in Progress**  
+- CEH (Certified Ethical Hacker)  
+- CHFI (Computer Hacking Forensic Investigator)  
+- CCNA (Cisco Certified Network Associate)  
+- CND (Certified Network Defender)  
 
 ---
 
-📊 **GitHub Stats**
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minzy-0x&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minzy-0x&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Minzy-0x&show_icons=true&theme=gruvbox" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minzy-0x&layout=compact&theme=gruvbox" width="48%"/>
 </p>
 
 ---
 
-📫 **Reach me before I vanish in the shell...**  
-- 🐦 Twitter: [@0xMinzy](https://twitter.com/) *(soon 😏)*
-- 📧 Email: `miss.root@cybersoul.dark` *(jk, DM me instead 😘)*  
-- 🌐 Portfolio: Coming soon with a payload
+## 📫 Contact
+
+- GitHub: [Minzy-0x](https://github.com/Minzy-0x)  
+- Email: *available upon request*  
+- Portfolio: Coming soon...
 
 ---
 
-🖤 *Hacking isn't just skills, it's attitude. Miss. Root doesn't knock... she brute forces the door open.*  
+> *"Security is not a product, it's a process." — Bruce Schneier*  
